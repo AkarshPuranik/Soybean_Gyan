@@ -1,7 +1,10 @@
 import 'package:farmers_app/generated/l10n.dart';
 import 'package:farmers_app/screens/about.dart';
+import 'package:farmers_app/screens/advisory.dart';
+import 'package:farmers_app/screens/chatbot.dart'; // Import the Chatbot page
 import 'package:farmers_app/screens/contact.dart';
 import 'package:farmers_app/screens/good_agri.dart';
+import 'package:farmers_app/screens/insect_management_system.dart';
 import 'package:farmers_app/screens/ml_model.dart';
 import 'package:farmers_app/screens/pre.dart';
 import 'package:flutter/material.dart';
@@ -28,6 +31,16 @@ class ContentPage extends StatelessWidget {
           localized.soybeanGyan1, // Use localized title
           style: TextStyle(color: Colors.white),
         ),
+        actions: [
+          IconButton(
+            icon: Icon(Icons.chat), // Chat icon
+            onPressed: () {
+              Navigator.of(context).push(
+                MaterialPageRoute(builder: (context) => ChatbotPage()), // Navigate to Chatbot page
+              );
+            },
+          ),
+        ],
       ),
       drawer: _buildDrawer(context),
       body: Stack(
@@ -47,6 +60,7 @@ class ContentPage extends StatelessWidget {
             child: Column(
               children: [
                 _buildSection(context, localized.marketPrices, 'assets/images/mandi.jpeg', MarketPrice()),
+                _buildSection(context, localized.smartsoytitle, 'assets/images/ai_model.jpg', MLModelPage()),
                 _buildSection(context, localized.cropManagement, 'assets/images/crop.jpg', Crop_Management()),
                 _buildSection(context, localized.SoyInsect, 'assets/images/insect.jpg', SoyInsect()),
                 _buildSection(context, localized.soyFood, 'assets/images/soyfood.jpg', SoyFood()),
@@ -94,10 +108,13 @@ class ContentPage extends StatelessWidget {
               ],
             ),
           ),
+          _buildDrawerItem(context, title: localized.soybot, page: ChatbotPage(), icon: Icons.chat),
+          _buildDrawerItem(context, title: localized.farmerAdvisory, page: WebViewPage(), icon: Icons.add_alert),
+          _buildDrawerItem(context, title: localized.insectManagementSystem, page: insectmanagenemtsystem(), icon: Icons.settings),
           _buildDrawerItem(context, title: localized.PredisposingFactors, page: pre(), icon: Icons.warning),
           _buildDrawerItem(context, title: localized.GoodAgriPractices, page: Agri(), icon: Icons.check_circle),
           _buildDrawerItem(context, title: localized.contactInformation, page: Contact(), icon: Icons.call),
-          _buildDrawerItem(context, title: localized.about, page: About(), icon: Icons.home),
+          _buildDrawerItem(context, title: localized.about, page: About(), icon: Icons.info),
         ],
       ),
     );

@@ -158,6 +158,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "email": MessageLookupByLibrary.simpleMessage("ईमेल"),
         "farmMachinery":
             MessageLookupByLibrary.simpleMessage("शेती यंत्रसामग्री"),
+        "farmerAdvisory": MessageLookupByLibrary.simpleMessage("शेतकरी सल्ला"),
         "fax": MessageLookupByLibrary.simpleMessage("फॅक्स"),
         "features": MessageLookupByLibrary.simpleMessage("वैशिष्ट्ये"),
         "featuresContent": MessageLookupByLibrary.simpleMessage(
@@ -263,6 +264,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("भारतीय कळी की उदीप्का"),
         "insectManagement1": MessageLookupByLibrary.simpleMessage(
             "डॉ. लोकेश कुमार मीना (कीटक व्यवस्थापन)"),
+        "insectManagementSystem":
+            MessageLookupByLibrary.simpleMessage("किड व्यवस्थापन प्रणाली"),
         "intercropping":
             MessageLookupByLibrary.simpleMessage("सोयाबीनमध्ये आंतरपीक"),
         "intercroppingDescription1": MessageLookupByLibrary.simpleMessage(
@@ -548,6 +551,8 @@ class MessageLookup extends MessageLookupByLibrary {
             "सिंगल रिज बियाणे लावणी यंत्र"),
         "singleRidgeTitle":
             MessageLookupByLibrary.simpleMessage("सिंगल रिज सिड प्लांटर"),
+        "smartsoytitle": MessageLookupByLibrary.simpleMessage(
+            "स्मार्ट सोय - एआय समर्थित रोग आणि कीटक निदान"),
         "socialDimension": MessageLookupByLibrary.simpleMessage(
             "त्याचा सामाजिक आयाम म्हणजे की, कृषी कामगारांचे आरोग्य रासायनिक आणि कीटकनाशकांच्या अपयोगापासून संरक्षित करणे."),
         "soilDescription": MessageLookupByLibrary.simpleMessage(
@@ -627,6 +632,7 @@ class MessageLookup extends MessageLookupByLibrary {
             "सोयाबीन सिड ड्रिल कम प्लांटर (दोन इन वन) मशीनसाठी ऑर्डर व पेमेंट \'डायरेक्टर, DSR, खंडवा रोड, इंदूर ४५२००१, म. प्र.\' येथे करावे."),
         "soybean_seed_drill_title": MessageLookupByLibrary.simpleMessage(
             "सोयाबीन सिड ड्रिल कम प्लांटर"),
+        "soybot": MessageLookupByLibrary.simpleMessage("सोयबॉट"),
         "soychakli": MessageLookupByLibrary.simpleMessage("सोयचकली"),
         "soycurd": MessageLookupByLibrary.simpleMessage("सोयदही"),
         "soyflour": MessageLookupByLibrary.simpleMessage("सोयापिठ"),

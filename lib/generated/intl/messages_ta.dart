@@ -164,6 +164,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "email": MessageLookupByLibrary.simpleMessage("மின்னஞ்சல்"),
         "farmMachinery":
             MessageLookupByLibrary.simpleMessage("விவசாய இயந்திரங்கள்"),
+        "farmerAdvisory": MessageLookupByLibrary.simpleMessage("விவசாய ஆலோசனை"),
         "fax": MessageLookupByLibrary.simpleMessage("தொலைநகல்"),
         "features": MessageLookupByLibrary.simpleMessage("அம்சங்கள்"),
         "featuresContent": MessageLookupByLibrary.simpleMessage(
@@ -272,6 +273,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("இந்திய முளை பிரைட்"),
         "insectManagement1": MessageLookupByLibrary.simpleMessage(
             "டாக்டர் லோகேஷ் குமார் மீனா (பூச்சி மேலாண்மை)"),
+        "insectManagementSystem":
+            MessageLookupByLibrary.simpleMessage("பூச்சி மேலாண்மை அமைப்பு"),
         "intercropping":
             MessageLookupByLibrary.simpleMessage("சோயாபீனில் இடைநடவு"),
         "intercroppingDescription1": MessageLookupByLibrary.simpleMessage(
@@ -555,6 +558,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("ஒற்றை அணிவேலை விதைப்பான்"),
         "singleRidgeTitle":
             MessageLookupByLibrary.simpleMessage("ஒற்றை பரப்பு விதைப்பாளர்"),
+        "smartsoytitle": MessageLookupByLibrary.simpleMessage(
+            "ஸ்மார்ட் சாய் - ஏஐ இயங்கும் நோய் மற்றும் பூச்சி கண்டறிதல்"),
         "socialDimension": MessageLookupByLibrary.simpleMessage(
             "இதன் சமூக பரிமாணம் என்பது வேளாண் தொழிலாளர்களின் சுகாதாரத்தை வேதிப்பொருட்கள் மற்றும் பூச்சி நாசினிகளை தவறாக பயன்படுத்துவதிலிருந்து பாதுகாக்கும் செய்தி ஆகும்."),
         "soilDescription": MessageLookupByLibrary.simpleMessage(
@@ -634,6 +639,7 @@ class MessageLookup extends MessageLookupByLibrary {
             "சோயாபீன் விதை குத்துபொறி மற்றும் விதைப்பான் (இரண்டு ஒன்றாக) வாங்குதல் மற்றும் பணமசெய்தல் கான்ட்வா ரோடு, இந்தோர் 452001, எம்.பி."),
         "soybean_seed_drill_title": MessageLookupByLibrary.simpleMessage(
             "சோயாபீன் விதை குத்துபொறி மற்றும் விதைப்பான்"),
+        "soybot": MessageLookupByLibrary.simpleMessage("சோய்பாட்"),
         "soychakli": MessageLookupByLibrary.simpleMessage("சோயசக்லி"),
         "soycurd": MessageLookupByLibrary.simpleMessage("சோயதயிர்"),
         "soyflour": MessageLookupByLibrary.simpleMessage("சோய மாவு"),

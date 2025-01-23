@@ -161,6 +161,8 @@ class MessageLookup extends MessageLookupByLibrary {
             "During long dry spells, the crop sown on flat land should receive a dora/kulpa/hoeing operation to reduce moisture loss from soil during early growth period (upto one month from sowing)."),
         "email": MessageLookupByLibrary.simpleMessage("Email"),
         "farmMachinery": MessageLookupByLibrary.simpleMessage("Farm Machinery"),
+        "farmerAdvisory":
+            MessageLookupByLibrary.simpleMessage("Farmer Advisory"),
         "fax": MessageLookupByLibrary.simpleMessage("Fax"),
         "features": MessageLookupByLibrary.simpleMessage("Features"),
         "featuresContent": MessageLookupByLibrary.simpleMessage(
@@ -270,6 +272,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("Indian Bud Blight"),
         "insectManagement1": MessageLookupByLibrary.simpleMessage(
             "Dr. Lokesh Kumar Meena (Insect Management)"),
+        "insectManagementSystem":
+            MessageLookupByLibrary.simpleMessage("Insect Management System"),
         "intercropping":
             MessageLookupByLibrary.simpleMessage("Intercropping in Soybean"),
         "intercroppingDescription1": MessageLookupByLibrary.simpleMessage(
@@ -554,6 +558,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("Single Ridge Seed Planter"),
         "singleRidgeTitle":
             MessageLookupByLibrary.simpleMessage("Single Ridge Seed Planter"),
+        "smartsoytitle": MessageLookupByLibrary.simpleMessage(
+            "Smart Soy - AI Powered Disease & Pest Diagnosis"),
         "socialDimension": MessageLookupByLibrary.simpleMessage(
             "Its social dimension would be to protect the agricultural workers\' health from improper use of chemicals and pesticides."),
         "soilDescription": MessageLookupByLibrary.simpleMessage(
@@ -633,6 +639,7 @@ class MessageLookup extends MessageLookupByLibrary {
             "Order and payment for Soybean Seed Drill cum Planter (two in one) machine is to be made to Director, DSR, Khandwa Road, Indore 452001, M.P."),
         "soybean_seed_drill_title": MessageLookupByLibrary.simpleMessage(
             "Soybean Seed Drill Cum Planter"),
+        "soybot": MessageLookupByLibrary.simpleMessage("Soybot"),
         "soychakli": MessageLookupByLibrary.simpleMessage("Soychakli"),
         "soycurd": MessageLookupByLibrary.simpleMessage("Soycurd"),
         "soyflour": MessageLookupByLibrary.simpleMessage("SoyFlour"),

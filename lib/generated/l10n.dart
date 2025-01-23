@@ -4189,6 +4189,46 @@ class S {
       args: [],
     );
   }
+
+  /// `Soybot`
+  String get soybot {
+    return Intl.message(
+      'Soybot',
+      name: 'soybot',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Farmer Advisory`
+  String get farmerAdvisory {
+    return Intl.message(
+      'Farmer Advisory',
+      name: 'farmerAdvisory',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Insect Management System`
+  String get insectManagementSystem {
+    return Intl.message(
+      'Insect Management System',
+      name: 'insectManagementSystem',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Smart Soy - AI Powered Disease & Pest Diagnosis`
+  String get smartsoytitle {
+    return Intl.message(
+      'Smart Soy - AI Powered Disease & Pest Diagnosis',
+      name: 'smartsoytitle',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<S> {

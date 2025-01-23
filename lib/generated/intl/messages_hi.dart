@@ -114,7 +114,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "collar_rot_title": MessageLookupByLibrary.simpleMessage("कालर रोट"),
         "contactInformation":
             MessageLookupByLibrary.simpleMessage("संपर्क जानकारी"),
-        "contents": MessageLookupByLibrary.simpleMessage("सामग्री"),
+        "contents": MessageLookupByLibrary.simpleMessage("कंटेंट"),
         "copyright": MessageLookupByLibrary.simpleMessage(
             "कॉपीराइट © सोयाबीन ज्ञान, सभी अधिकार सुरक्षित।"),
         "cost": MessageLookupByLibrary.simpleMessage("लागत"),
@@ -159,6 +159,7 @@ class MessageLookup extends MessageLookupByLibrary {
             "लंबे सूखा काल में, समतल भूमि पर बोई गई फसल को प्रारंभिक वृद्धि अवधि (बुआई के एक महीने तक) में मिट्टी से नमी की हानि को कम करने के लिए डोरा/कुल्पा/होइंग ऑपरेशन दिया जाना चाहिए।"),
         "email": MessageLookupByLibrary.simpleMessage("ईमेल"),
         "farmMachinery": MessageLookupByLibrary.simpleMessage("कृषि यंत्र"),
+        "farmerAdvisory": MessageLookupByLibrary.simpleMessage("किसान सलाह"),
         "fax": MessageLookupByLibrary.simpleMessage("फैक्स"),
         "features": MessageLookupByLibrary.simpleMessage("विशेषताएँ"),
         "featuresContent": MessageLookupByLibrary.simpleMessage(
@@ -261,6 +262,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("भारतीय कली धुंध"),
         "insectManagement1": MessageLookupByLibrary.simpleMessage(
             "डॉ. लोकेश कुमार मीना (कीट प्रबंधन)"),
+        "insectManagementSystem":
+            MessageLookupByLibrary.simpleMessage("कीट प्रबंधन प्रणाली"),
         "intercropping":
             MessageLookupByLibrary.simpleMessage("सोयाबीन में अंतरफसल"),
         "intercroppingDescription1": MessageLookupByLibrary.simpleMessage(
@@ -546,6 +549,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("सिंगल रिज सीड प्लांटर"),
         "singleRidgeTitle":
             MessageLookupByLibrary.simpleMessage("सिंगल रिज सीड प्लांटर"),
+        "smartsoytitle": MessageLookupByLibrary.simpleMessage(
+            "स्मार्ट सोय - एआई संचालित रोग और कीट निदान"),
         "socialDimension": MessageLookupByLibrary.simpleMessage(
             "इसका सामाजिक आयाम यह होगा कि यह कृषि श्रमिकों के स्वास्थ्य की रक्षा करता है जो रासायनिक और कीटनाशकों के अनुचित उपयोग से होते हैं।"),
         "soilDescription": MessageLookupByLibrary.simpleMessage(
@@ -625,6 +630,7 @@ class MessageLookup extends MessageLookupByLibrary {
             "सोयाबीन सीड ड्रिल कम प्लांटर (दो इन वन) मशीन का आदेश और भुगतान निदेशक, डीएसआर, खंडवा रोड, इंदौर 452001, म.प्र. को किया जाना है।"),
         "soybean_seed_drill_title": MessageLookupByLibrary.simpleMessage(
             "सोयाबीन सीड ड्रिल कम प्लांटर"),
+        "soybot": MessageLookupByLibrary.simpleMessage("सोयबॉट"),
         "soychakli": MessageLookupByLibrary.simpleMessage("सोयचकली"),
         "soycurd": MessageLookupByLibrary.simpleMessage("सोयकर्ड"),
         "soyflour": MessageLookupByLibrary.simpleMessage("सोयफ्लौर"),

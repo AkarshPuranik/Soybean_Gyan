@@ -158,6 +158,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "email": MessageLookupByLibrary.simpleMessage("ఇమెయిల్"),
         "farmMachinery":
             MessageLookupByLibrary.simpleMessage("వ్యవసాయ యంత్రాలు"),
+        "farmerAdvisory": MessageLookupByLibrary.simpleMessage("రైతు సలహా"),
         "fax": MessageLookupByLibrary.simpleMessage("ఫ్యాక్స్"),
         "features": MessageLookupByLibrary.simpleMessage("లక్షణాలు"),
         "featuresContent": MessageLookupByLibrary.simpleMessage(
@@ -265,6 +266,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("భారతీయ మొగ్గ మిలిపి"),
         "insectManagement1": MessageLookupByLibrary.simpleMessage(
             "డాక్టర్ లోకేష్ కుమార్ మీనా (కీటక నిర్వహణ)"),
+        "insectManagementSystem":
+            MessageLookupByLibrary.simpleMessage("పురుగు నిర్వహణ వ్యవస్థ"),
         "intercropping":
             MessageLookupByLibrary.simpleMessage("సోయాబీన్‌లో అంతరవిత్తనాలు"),
         "intercroppingDescription1": MessageLookupByLibrary.simpleMessage(
@@ -551,6 +554,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("సింగిల్ రిజ్ సీడ్ ప్లాంటర్"),
         "singleRidgeTitle": MessageLookupByLibrary.simpleMessage(
             "సింగిల్ రిడ్జ్ సీడ్ ప్లాన్టర్"),
+        "smartsoytitle": MessageLookupByLibrary.simpleMessage(
+            "స్మార్ట్ సోయ్ - ఏఐ ఆధారిత వ్యాధి & పురుగు నిర్ధారణ"),
         "socialDimension": MessageLookupByLibrary.simpleMessage(
             "దాని సామాజిక అంశం ఏమిటంటే, వ్యవసాయ కార్మికుల ఆరోగ్యం విషమమైన రసాయనాలు మరియు పురుగుమందుల వాడకం వల్ల కాపాడుకోవడం."),
         "soilDescription": MessageLookupByLibrary.simpleMessage(
@@ -631,6 +636,7 @@ class MessageLookup extends MessageLookupByLibrary {
             "సోయాబీన్ సీడ్ డ్రిల్ కమ్ ప్లాంటర్ ఆర్డర్ మరియు చెల్లింపు డైరెక్టర్, డీఎస్ఆర్, ఖాండ్వా రోడ్, ఇందూర్ 452001, ఎం.పి. కి చేయాలి."),
         "soybean_seed_drill_title": MessageLookupByLibrary.simpleMessage(
             "సోయాబీన్ సీడ్ డ్రిల్ కమ్ ప్లాంటర్"),
+        "soybot": MessageLookupByLibrary.simpleMessage("సోయ్‌బాట్"),
         "soychakli": MessageLookupByLibrary.simpleMessage("సోయా చక్లీ"),
         "soycurd": MessageLookupByLibrary.simpleMessage("సోయా పెరుగు"),
         "soyflour": MessageLookupByLibrary.simpleMessage("సోయా పిండి"),

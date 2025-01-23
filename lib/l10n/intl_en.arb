@@ -333,7 +333,8 @@
   "symptoms_tab": "Symptoms",
   "management_tab": "Management",
   "description_text": "Causal Organism: Sclerotium rolfsii Sacc. (Teleomorph Athelia rolfsii). The pathogen is soil borne. It affects stem bases and the lower part of the stem. The disease occurs throughout soybean growing areas of India but is most common in the states of Madhya Pradesh, Rajasthan, and Karnataka. The disease causes yield losses ranging from 30 to 40% under congenial climate. Hot (25°C to 35°C) and humid weather, well-aerated sandy or sandy loam soil, high soil moisture, high plant population, dense canopy cover, and a large amount of undecomposed organic matter from previous crops favor the disease.",
-  "symptoms_text": "I. Seed and seedling: Pathogen causes damping off in seedlings. Subsequent decay in the collar region results in drooping and wilting of seedlings. The most striking symptom is the formation of white cottony mats of mycelium around the collar region and sometimes on the soil (generally disappears during drought) with reddish brown to dark brown, globose to sub-globose sclerotia about the size of mustard seeds.\n2. Well-grown plant: Infection appears in the form of basal stem rot, wilt, and blighting of the leaves. The appearance of white cottony mats of mycelium around the collar region with sclerotia is also common. Under favorable conditions, sclerotia are even produced on the soil surface near infected plants.", "management_text": "Pathogen perpetuates through soil, crop residues, and weeds; therefore, field sanitation, deep summer ploughing to bury debris and sclerotia to a depth of 15 to 25 cm help in reducing the disease. Crop rotation with maize, sorghum, etc. helps in containing the disease to some extent. Use of less susceptible variety NRC 37 will reduce the yield loss. Roguing and burning of infected plants check the spread of the disease. Seed treatment with thiram + carbendazim (2:1) @ 3 g/kg or Trichoderma viride @ 4-5 g/kg seed is effective. Soil application of neem cake @ 2.5 t/ha or soil drench with Chloroneb @ 20 kg/ha in disease hotspot areas is recommended.",
+  "symptoms_text": "I. Seed and seedling: Pathogen causes damping off in seedlings. Subsequent decay in the collar region results in drooping and wilting of seedlings. The most striking symptom is the formation of white cottony mats of mycelium around the collar region and sometimes on the soil (generally disappears during drought) with reddish brown to dark brown, globose to sub-globose sclerotia about the size of mustard seeds.\n2. Well-grown plant: Infection appears in the form of basal stem rot, wilt, and blighting of the leaves. The appearance of white cottony mats of mycelium around the collar region with sclerotia is also common. Under favorable conditions, sclerotia are even produced on the soil surface near infected plants.",
+  "management_text": "Pathogen perpetuates through soil, crop residues, and weeds; therefore, field sanitation, deep summer ploughing to bury debris and sclerotia to a depth of 15 to 25 cm help in reducing the disease. Crop rotation with maize, sorghum, etc. helps in containing the disease to some extent. Use of less susceptible variety NRC 37 will reduce the yield loss. Roguing and burning of infected plants check the spread of the disease. Seed treatment with thiram + carbendazim (2:1) @ 3 g/kg or Trichoderma viride @ 4-5 g/kg seed is effective. Soil application of neem cake @ 2.5 t/ha or soil drench with Chloroneb @ 20 kg/ha in disease hotspot areas is recommended.",
   "stem_rot_title": "Sclerotinia Stem Rot",
   "description_tab": "Description",
   "symptoms_tab": "Symptoms",
@@ -397,10 +398,6 @@
   "target_description": "Causal Organism: Corynespora cassicola (Berk. & Curt.) Wei. The pathogen is seed, soil, and air-borne. It affects roots (not common in India), stems, leaves, pods, and seeds. The disease is very common and severe in the states of Himachal Pradesh but also present in Madhya Pradesh. The disease can cause yield loss ranging from 18 to 32%. In temperate regions, the pathogen grows best at 18–20°C, whereas in warmer regions it prefers 28°C.",
   "target_symptoms": "1. On seed & seedling: Small brown-blackish lesions are produced on seeds. Stems and roots are infected in the early seedling stage, and underground symptoms can be seen as early as three days after emergence. 2. On well-grown plant: Infection in leaves initiates with minute chlorotic or reddish-brown spots with a yellow halo. Later, the spots grow and resemble a shooting target. Spread is quick under high humidity, leading to severe defoliation before full pod development.",
   "target_management": "Burning of infected plant parts to prevent secondary spread of the disease. Cultivation of moderately resistant varieties like JS 335, JS 72-44, PK 1024, Pb 1, MAUS 71, DSb 5, etc. Spray of carbendazim or thiophanate methyl (0.05%).",
-
-
-
-
   "tofuDescription": "Paneer prepared from soy milk is called Tofu. 2 L of milk is required to make 400 grams of tofu. Let the soybean milk's temperature come to 80 degrees. Now add and mix lemon juice with soybean milk and stir 1-2 times. Do not stir continuously. You will be able to see the milk coagulating and water separating from it. Sieve the coagulated milk instantly through clean muslin cloth and then place a heavy object on it. Cut it into small pieces with a knife to use as Paneer.",
   "soyUpmaDescription": "Mix soy okara and semolina in a 1:1 ratio and roast till it gets brown with constant stirring. Keep roasted mix aside on a plate. Now roast groundnut till brown and keep aside. Heat oil in a wok and add mustard seeds; when seeds splutter, add green chillies, carrot, and peas, and fry for 2-3 minutes. Now add roasted okara-semolina mix and add three times the amount of water to mix. Add salt, and as the batter gets thick, add groundnuts and cook for 3-4 minutes.",
   "soyPakoraDescription": "Add okara and besan in equal ratio. Add green chillies, ginger-garlic paste, finely chopped onion, and coriander leaves. Add spices (asafoetida, red chilli powder, coriander powder, salt) and mix well. The batter for preparing pakoras is ready. Heat oil in a wok and add small portions using your hand. Fry until golden brown and remove from oil.",
@@ -413,12 +410,10 @@
   "soyFlourDescription": "Soy flour can be processed by various methods: full-fatted, partially defatted, defatted, roasted, enzyme inactive or active, lecithinated, etc. Full-fatted soy flour can be prepared easily at home. For preparing at home, wash cleaned soybeans with water. Boil for 20 minutes and sundry for two to three days, then grind in a mixer or grinder. Add soy flour to wheat flour to prepare chapatti. For 9kg wheat flour, add 1kg soy flour for fortification.",
   "soyCurdDescription": "Mix soy milk and dairy milk in a half-half ratio and add curd culture to lukewarm milk. Mix it well and keep it aside for setting. Once set, refrigerate it. Soy curd will be ready. It contains high nutrient value.",
   "soyChakliDescription": "For preparing Soy Chakli, mix and sieve rice flour (200 gm), urad dal flour (100 gm), and soy flour (100 gm). Add all spices (carom, cumin, red chili, asafetida, salt) and oil, and mix well. Add a little water to knead soft dough and put it inside the chakli mold. Prepare round-shaped chakli by pressing the machine from the top and revolving it in a circular motion. Fry them in a pan on a low or medium flame.",
-  "PredisposingFactors":"Pre-disposing Factors",
+  "PredisposingFactors": "Pre-disposing Factors",
   "about": "About",
   "GoodAgriPractices": "Good Agri Practices",
   "contactInformation": "Contact Information",
-
-
   "aboutTitle": "About",
   "soybeanGyan": "Soybean Gyan is designed and developed by the Indian Institute of Soybean Research, Indore to provide all the necessary farming information to farmers. The purpose of this application is to share agriculture-based new innovations and research with farmers.",
   "section1": "Crop Management",
@@ -427,9 +422,6 @@
   "section4": "Disease Management",
   "section5": "Farm Machinery",
   "section6": "Soy Food Recipe",
-
-
-
   "contactInformation": "Contact Information",
   "address": "Address",
   "addressDetails": "ICAR-Indian Institute Of Soybean Research, Khandwa Road, Indore(M.P.)-452001",
@@ -445,11 +437,6 @@
   "principalScientist": "Dr. Savita Kolhe, Principal Scientist",
   "email": "Email",
   "fax": "Fax",
-
-
-
-
-
   "goodAgriPractice": "Good Agri Practice",
   "generalGuidelines": "General Guidelines -",
   "goodAgriPracticesDescription": "Good Agricultural Practices (GAPs) are a set of principles, regulations and technical recommendations applicable to production, processing and food transport, addressing human health care, environment protection and improvement of worker conditions and their families. Implementing GAP also helps promote sustainable agriculture and contributes to meeting national and international environmental and social developmental objectives.",
@@ -502,16 +489,20 @@
   "harvestingPoint2": "2. Use clean and sharp tools to avoid damage to crops.",
   "harvestingPoint3": "3. Handle harvested crops carefully to prevent bruising or spoilage.",
   "harvestingPoint4": "4. Store harvested crops in a cool, dry place to extend shelf life.",
-  "copyright": "Copyright © Soybean Gyan, All Rights Reserved."
-
-
-
-
-
-
-
-
-
-
-
+  "copyright": "Copyright © Soybean Gyan, All Rights Reserved.",
+  "soybot": "Soybot",
+  "farmerAdvisory": "Farmer Advisory",
+  "insectManagementSystem": "Insect Management System",
+  "smartsoytitle": "Smart Soy - AI Powered Disease & Pest Diagnosis"
 }
+
+
+
+
+
+
+
+
+
+
+
